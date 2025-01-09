@@ -27,6 +27,7 @@ Four kinds of loading profiles including CC charge, CC discharge, WLTP discharge
 **7. Training-validation test data under 35℃** . This is the unseen test containing WLTP and shifted WLTP using cell 7 and cell 8. Two average current rates including 1 C and C/2 were applied.
 
 Notation for each test profile:
+
 **-- CC charge**
 The cells were first fully discharged using 1C CC-CV. Then, three current rates of 1C, C/2, and C/10 were applied to charge the cells to different SOCs followed by 1-hour rest. This experiment was conducted under 10℃, 25℃, and 45℃.
 
